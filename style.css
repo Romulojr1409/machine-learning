@@ -1,0 +1,26 @@
+  body
+  {
+    color: white;
+    background:linear-gradient(#0b7572,#096909);
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: yellow;
+  }
+  #titulo
+  {
+ background: #096909;
+ color: white;
+
+  }
